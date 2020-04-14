@@ -1,0 +1,20 @@
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Brownian Motion Visualisation.exe.config
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Brownian Motion Visualisation.exe
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Brownian Motion Visualisation.pdb
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian_Motion_Visualisation.MainWindow.resources
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian_Motion_Visualisation.Properties.Resources.resources
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.exe
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.pdb
+C:\Users\Jack\Desktop\Технология разработки\9. Brownian Motion Visualisation\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian_Motion_Visualisation.Forms.Particle.resources
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Brownian Motion Visualisation.exe.config
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Brownian Motion Visualisation.exe
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\bin\Debug\Brownian Motion Visualisation.pdb
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian_Motion_Visualisation.Forms.Particle.resources
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian_Motion_Visualisation.MainWindow.resources
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian_Motion_Visualisation.Properties.Resources.resources
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.exe
+C:\Users\Jack\Desktop\Brownian Motion Visualisation\Brownian Motion Visualisation\obj\Debug\Brownian Motion Visualisation.pdb
